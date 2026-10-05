@@ -1,0 +1,23 @@
+{
+  "rows": 55192,
+  "models": 813,
+  "generated": "2026-10-05",
+  "files": {
+    "listings.csv.gz": {
+      "bytes": 1264585,
+      "sha256": "9efc7dd8b3c0a58a74f633e6e561a9dcccd1b2ab25c2bae1eb0e1f7342542a23"
+    },
+    "listings.parquet": {
+      "bytes": 1492407,
+      "sha256": "6674a1fae4f30fe451c7df9c57ebda06fc44e9687c240184db97cab61bdbb895"
+    },
+    "models.csv": {
+      "bytes": 26513,
+      "sha256": "df9fe4e5c19beb02d39a4611984637152027fc9aedc99387a9d7798a23c062b4"
+    },
+    "DATASET_CARD.md": {
+      "bytes": 2665,
+      "sha256": "d326b176f9b0e2cfdbe441d7df19cb89dc83d562911f83221f37708668b05426"
+    }
+  }
+}

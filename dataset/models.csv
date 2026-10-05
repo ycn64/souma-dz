@@ -1,0 +1,814 @@
+slug,model,n_ads
+peugeot-207,Peugeot 207,802
+peugeot-308,Peugeot 308,787
+seat-ibiza,Seat Ibiza,785
+volkswagen-polo,Volkswagen Polo,776
+peugeot-208,Peugeot 208,770
+fiat-500,Fiat 500,750
+kia-picanto,Kia Picanto,749
+dacia-logan,Dacia Logan,748
+renault-symbol,Renault Symbol,726
+hyundai-grand-i10,Hyundai Grand i10,717
+hyundai-accent,Hyundai Accent,716
+renault-clio-campus,Renault Clio Campus,708
+renault-clio-4,Renault Clio 4,689
+peugeot-301,Peugeot 301,683
+dacia-sandero,Dacia Sandero,664
+fiat-tipo_sedan,Fiat Tipo Sedan,651
+seat-leon,Seat Leon,643
+peugeot-partner,Peugeot Partner,640
+dacia-duster,Dacia Duster,638
+kia-kx1,Kia KX1,629
+volkswagen-caddy,Volkswagen Caddy,620
+renault-kangoo,Renault Kangoo,609
+fiat-500x,Fiat 500x,604
+geely-gx3_pro,Geely GX3 PRO,593
+volkswagen-golf-7,Volkswagen Golf 7,585
+skoda-fabia,Skoda Fabia,576
+renault-clio_5,Renault Clio 5,566
+citroen-c3,Citroen C3,562
+renault-clio-3,Renault Clio 3,544
+volkswagen-troc,Volkswagen T-Roc,539
+volkswagen-golf-6,Volkswagen Golf 6,539
+suzuki-swift,Suzuki Swift,525
+chery-qq,Chery QQ,523
+renault-clio-2,Renault Clio 2,505
+hyundai-i10,Hyundai i10,496
+renault-megane-3,Renault Megane 3,478
+volkswagen-tahru,Volkswagen Tahru,471
+mg5,MG5,456
+livan-x3_pro,Livan X3 Pro,450
+volkswagen-tiguan,Volkswagen Tiguan,443
+ford-fiesta,Ford Fiesta,430
+fiat-doblo,Fiat Doblo,425
+peugeot-206,Peugeot 206,415
+citroen-berlingo,Citroen Berlingo,414
+kia-sportage,Kia Sportage,407
+suzuki-maruti-800,Suzuki Maruti 800,398
+toyota-yaris,Toyota Yaris,384
+hyundai-atos,Hyundai Atos,379
+mercedes-classe-c,Mercedes Classe C,378
+skoda-octavia,Skoda Octavia,374
+hyundai-tucson,Hyundai Tucson,374
+geely-coolray,Geely Coolray,372
+renault-captur,Renault Captur,368
+peugeot-2008,Peugeot 2008,321
+modele-skoda-kamiq,Skoda Kamiq,321
+modele-kia-seltos,Kia Seltos,312
+volkswagen-passat,Volkswagen Passat,308
+chevrolet-aveo-4-portes,Chevrolet Aveo 4 portes,304
+renault-megane-2,Renault Megane 2,303
+chevrolet-aveo-5-portes,Chevrolet Aveo 5 portes,301
+renault-megane-1,Renault Megane 1,296
+chevrolet-spark,Chevrolet Spark,293
+renault-scenic,Renault Scenic,272
+suzuki-alto,Suzuki Alto,271
+hyundai-i20,Hyundai i20,265
+peugeot-206-plus,Peugeot 206 Plus,258
+peugeot-3008,Peugeot 3008,258
+audi-a3,Audi A3,249
+nissan-micra,Nissan Micra,238
+seat-arona,Seat ARONA,228
+chevrolet-sail-4-portes,Chevrolet Sail 4 portes,226
+chery-tiggo_4_pro,Chery Tiggo 4 pro,220
+hyundai-accent-rb-4-portes,Hyundai Accent RB  4 portes,215
+modele-volkswagen-tharu_xr,Volkswagen Tharu XR,211
+volkswagen-golf-4,Volkswagen Golf 4,209
+modelemarquevoituregacgs3,GAC GS3 emzoom,209
+peugeot-406,Peugeot 406,208
+chery-tiggo_2_pro,Chery Tiggo 2 pro,206
+jetour-x70_plus,Jetour  X70 PLUS,205
+opel-astra,Opel Astra,203
+mercedes-classe-e,Mercedes Classe E,199
+opel-corsa,Opel Corsa,196
+hyundai-accent-rb-5-portes,Hyundai Accent RB  5 portes,196
+chevrolet-cruze,Chevrolet Cruze,193
+volkswagen-golf-5,Volkswagen Golf 5,193
+skoda-rapid,Skoda Rapid,191
+volkswagen-taous,Volkswagen Taos,190
+renault-clio-1,Renault Clio 1,189
+chery-arrizo_5,Chery Arrizo 5,185
+audi-q5,Audi Q5,183
+chevrolet-captiva,Chevrolet Captiva,182
+citroen-c-elysee,Citroen C Elysée,180
+jetour-dashing,Jetour Dashing,176
+toyota-hilux,Toyota Hilux,175
+renault-laguna-2,Renault Laguna 2,173
+peugeot-307,Peugeot 307,173
+volkswagen-taigo,Volkswagen Taigo,171
+kiasportagerestyle,Kia Sportage restylé,169
+citroen-berlingo-multispace,Citroen Berlingo Multispace,169
+volkswagen-tcross,Volkswagen T-Cross,166
+nissan-sunny,Nissan Sunny,163
+hyundai-creta,Hyundai Creta,163
+toyota-corolla,Toyota Corolla,161
+land-rover-range-rover-evoque,Land Rover Range Rover Evoque,159
+citroen-c4,Citroen C4,157
+modele-kia-sonet,Kia Sonet,155
+hyundai-santafe,Hyundai SantaFe,155
+mercedes-classe-a,Mercedes Classe A,151
+renault-laguna-1,Renault Laguna 1,146
+volkswagen-jetta,Volkswagen Jetta,145
+kaiyi-x3_pro,Kaiyi X3 Pro,140
+renault-clio-classique,Renault Clio Classique,138
+toyota-yaris-sedan,Toyota Yaris Sedan,135
+hyundai-eon,Hyundai EON,135
+chery-tiggo_7_pro,Chery Tiggo 7 Pro,132
+chevrolet-sail-5-portes,Chevrolet Sail 5 portes,131
+audi-q3,Audi Q3,131
+renault-clio-4-facelift,Renault Clio 4 Facelift,124
+renault-express,Renault Express,122
+nissan-qashqai,Nissan Qashqai,118
+peugeot-rifter,Peugeot Rifter,118
+great-wall-c30,Great Wall C30,117
+kia-rio-5-portes,Kia Rio 5 portes,117
+suzuki-celerio,Suzuki Celerio,115
+kia-cerato,Kia Cerato,113
+land-rover-freelander-2,Land Rover Freelander 2,111
+renault-arkana,Renault Arkana,111
+geely-emgrand,Geely Emgrand,110
+opel-mokka,Opel Mokka,109
+kia-rio,Kia Rio,109
+opel-grand_land,Opel GrandLand,106
+chevrolet-optra-4-portes,Chevrolet Optra 4 portes,106
+suzuki-swift-dzire,Suzuki Swift Dzire,106
+kia-carens,Kia Carens,105
+peugeot-407,Peugeot 407,99
+nissan-navara,Nissan Navara,98
+chevrolet-optra-5-portes,Chevrolet Optra 5 portes,96
+peugeot-expert,Peugeot Expert,92
+fiat-doblo_van,Fiat Doblo Van,92
+peugeot-508,Peugeot 508,91
+toyota-rav4,Toyota RAV4,91
+dfsk-mini-truck,DFSK Mini Truck,89
+citroen-xsara,Citroen Xsara,87
+volkswagen-golf-3,Volkswagen Golf 3,87
+modele-renault-taliant,Renault Taliant,85
+skoda-yeti,Skoda Yeti,85
+renault-megane-2-classique,Renault Megane 2 Classique,83
+peugeot-306,Peugeot 306,83
+peugeot-bipper,Peugeot Bipper,81
+fiat-punto,Fiat Punto,80
+volkswagen-passat-cc,Volkswagen Passat CC,80
+modele-volkswagen-tharu,Volkswagen Tharu,80
+audi-a1,Audi A1,77
+suzuki-alto-k10,Suzuki Alto K10,76
+renault-19,Renault 19,75
+ford-focus-5-portes,Ford Focus 5 portes,75
+bmw-serie-3,BMW Série 3,75
+bmw-serie-1,BMW Série 1,75
+volkswagen-amarok,Volkswagen Amarok,75
+renault-twingo,Renault Twingo,71
+renault-fluence,Renault Fluence,70
+fiat-palio,Fiat Palio,69
+peugeot-207-plus,Peugeot 207 plus,69
+modele-skoda-karoq,Skoda Karoq,68
+renault-kwid,Renault Kwid,67
+great-wall-florid,Great Wall Florid,66
+renault-megane_4,Renault Megane 4,66
+volkswagen-touran,Volkswagen Touran,62
+volkswagen-new-tiguan,Volkswagen New Tiguan,62
+modele-jetour-t2,Jetour T2,62
+volkswagen-golf-2,Volkswagen Golf 2,62
+chevrolet-new-spark,Chevrolet New Spark,61
+hyundai-i30,Hyundai i30,61
+peugeot-206-sedan,Peugeot 206 Sedan,60
+audi-q2,Audi Q2,60
+audi-a3-sportback,Audi A3 Sportback,60
+audi-a4,Audi A4,59
+modele-marque-voiture-jetta-vs5,Jetta  VS5,58
+ssangyong-kyron,SsangYong Kyron,57
+volkswagen-lavida,Volkswagen Lavida,57
+cupra-leon,Cupra  Leon,55
+hyundai-h1,Hyundai H1,55
+peugeot-405,Peugeot 405,54
+hyundai-grand-i10-sedan,Hyundai Grand i10 Sedan,54
+mercedes-glc,Mercedes GLC,54
+peugeot-205,Peugeot 205,53
+mercedes-ml,Mercedes ML,53
+audi-s3,Audi S3,53
+audi-a6,Audi A6,53
+toyota-auris,Toyota Auris,53
+renault-4,Renault 4,51
+mercedes-cla,Mercedes CLA,51
+hyundai-elantra,Hyundai Elantra,50
+citroen-c5,Citroen C5,50
+zotye-nomad-2,Zotye Nomad 2,49
+nissan-x-trail,Nissan X Trail,49
+seat-ateca,Seat ATECA,49
+daewoo-nubira,Daewoo Nubira,48
+geely-starray,Geely Starray,47
+daewoo-cielo,Daewoo Cielo,47
+citroen-saxo,Citroen Saxo,47
+ssangyong-korando,SsangYong Korando,47
+peugeot-305,Peugeot 305,45
+toyota-corolla-verso,Toyota Corolla Verso,45
+mitsubishi-l200,Mitsubishi L200,45
+ford-ranger,Ford Ranger,45
+ford-focus-4-portes,Ford Focus 4 portes,45
+peugeot-boxer,Peugeot Boxer,44
+chevrolet-sonic-hatchback,Chevrolet Sonic Hatchback,43
+suzuki-maruti-zen,Suzuki Maruti Zen,43
+daihatsu-terios,Daihatsu Terios,42
+modele-volkswagen-bora,Volkswagen Bora,42
+suzuki-grand-vitara,Suzuki Grand Vitara,40
+chevrolet-trax,Chevrolet Trax,40
+kaiyi-x7,Kaiyi X7,39
+audi-a3-limousine,Audi A3 Limousine,39
+changan-benni-mini,Changan Benni mini,39
+modele-toyota-revo,Toyota Revo,39
+peugeot-107,Peugeot 107,38
+daewoo-matiz,Daewoo Matiz,38
+gonow-mini-truck-double-cabine,Gonow Mini Truck Double Cabine,37
+modele-skoda-kamiq_gt,Skoda Kamiq GT,37
+hyundai-i10-plus,Hyundai i10 Plus,37
+renault-kadjar,Renault Kadjar,36
+modele-volkswagen-new_troc,Volkswagen New T-Roc,36
+audi-a3-sport-back,Audi A3 Ssportback,34
+jetour-x70,Jetour X70,34
+zotye-z100,Zotye Z100,34
+modele-skoda-scala,Skoda Scala,34
+volkswagen-gol,Volkswagen Gol,34
+chery-fulwin,Chery Fulwin,33
+modele-hyundai-venue,Hyundai Venue,33
+hyundai-matrix,Hyundai Matrix,33
+fiat-ducato,Fiat Ducato,33
+byd-f0,BYD F0,32
+modele-geely-pro,Geely Pro,32
+mercedes-sprinter,Mercedes Sprinter,32
+renault-megane-2-coupe,Renault Megane 2 Coupé,32
+peugeot-505,Peugeot 505,32
+nissan-patrol-long,Nissan Patrol Long,31
+kia-sorento,Kia Sorento,31
+suzuki-sx4,Suzuki SX4,31
+skoda-superb,Skoda Superb,31
+hyundai-i40,Hyundai i40,31
+fiat-uno,Fiat Uno,31
+dacia-solenza,Dacia Solenza,30
+daihatsu-sirion,Daihatsu Sirion,30
+peugeot-5008,Peugeot 5008,30
+chery-new-qq,Chery New QQ,30
+renault-master,Renault Master,30
+fiat-grande-punto,Fiat Grande Punto,30
+citroen-c4-picasso,Citroen C4 Picasso,30
+mercedes-glk,Mercedes GLK,30
+dacia-logan-mcv,Dacia Logan MCV,29
+great-wall-wingle,Great Wall Wingle,29
+modele-mg-zs,MG ZS,29
+geely-ray,Geely Ray,29
+ssangyong-actyon-sports,SsangYong Actyon Sports,29
+audi-a1-sport-back,Audi A1 Sportback,28
+nissan-tiida-5-portes,Nissan Tiida 5 portes,28
+citroen-xsara-picasso,Citroen Xsara Picasso,28
+peugeot-106,Peugeot 106,28
+volkswagen-touareg,Volkswagen Touareg,28
+bmw-x1,BMW X1,28
+volkswagen-polo-classique,Volkswagen Polo classique,27
+nissan-juke,Nissan Juke,27
+modele-volkswagen-tiguan_l,Volkswagen Tiguan L,27
+opel-crossland,Opel Crossland,27
+modele-geely-cityray,Geely Cityray,26
+porsche-macan,Porsche Macan,26
+citroen-jumpy,Citroen Jumpy,26
+modelechanganx5_plus,Changan X5 Plus,26
+citroen-c4-cactus,Citroen C4 Cactus,25
+chery-tiggo,Chery Tiggo,25
+mitsubishi-lancer,Mitsubishi Lancer,25
+bmw-serie-5,BMW Série 5,24
+land-rover-range-sport,Land Rover Range Sport,24
+ford-fusion,Ford Fusion,24
+renault-5,Renault 5,23
+audi-a5,Audi A5,23
+renault-21,Renault 21,23
+toyota-echo,Toyota Echo,23
+renault-safrane,Renault Safrane,23
+skoda-rapid-spaceback,Skoda Rapid Spaceback,22
+byd-f3,BYD F3,22
+toyota-land-cruiser,Toyota Land Cruiser,22
+mini-mini,Mini,22
+suzuki-baleno,Suzuki Baleno,21
+peugeot-4008,Peugeot 4008,21
+lifan-520,Lifan 520,21
+citroen-jumper,Citroen Jumper,21
+hyundai-new-tucson,Hyundai New Tucson,21
+modele-volkswagen-tayron,Volkswagen Tayron,21
+haima-family,Haima Family,21
+opel-vectra,Opel Vectra,21
+zotye-nomad-1,Zotye Nomad 1,21
+hafei-motors-yavuz,Hafei motors Yavuz,20
+ford-c-max,Ford C Max,20
+honda-civic,Honda Civic,20
+kia-xceed,Kia X-Ceed,20
+mitsubishi-pajero-court,Mitsubishi Pajero Court,20
+opel-zafira,Opel Zafira,20
+suzuki-ertiga,Suzuki Ertiga,20
+mitsubishi-mirage,Mitsubishi Mirage,19
+mazda-bt-50,Mazda BT 50,18
+chery-tiggo_8_pro,Chery Tiggo 8 pro,18
+toyota-avensis,Toyota Avensis,18
+mercedes-cls,Mercedes CLS,18
+jetour-x90,Jetour  X90plus,18
+renault-super-5,Renault Super 5,18
+haima-1,Haima 1,18
+baic-x25,Baic X25,18
+daihatsu-charade,Daihatsu Charade,18
+volkswagen-polo-sedan,Volkswagen Polo Sedan,18
+seat-toledo,Seat Toledo,17
+great-wall-peri,Great Wall Peri,17
+renault-25,Renault 25,17
+mg-3,MG 3,17
+baic-x35,Baic X35,17
+volkswagen-transporter,Volkswagen Transporter,17
+bmw-serie-2,BMW Série 2,17
+daihatsu-gran-max,Daihatsu Gran Max,17
+daewoo-lanos,Daewoo Lanos,16
+chery-cowin,Chery Cowin,16
+chana-star-truck,Chana Star Truck,16
+fiat-panda,Fiat Panda,16
+sokon-c01,Sokon C01,16
+ssangyong-rexton,SsangYong Rexton,16
+faw-n5,Faw N5,16
+renault-espace,Renault Espace,16
+kia-k2500,Kia K2500,15
+renault-kangoo-be-bop,Renault Kangoo Be Bop,15
+nissan-pickup,Nissan Pickup,15
+modele-kia-pegas,Kia Pegas,15
+peugeot-806,Peugeot 806,15
+nissan-primera,Nissan Primera,15
+faw-ca-1024,Faw CA 1024,15
+ds-ds4,DS4,15
+mahindra-scorpio,Mahindra Scorpio,15
+land-rover-freelander,Land Rover Freelander,15
+ds-ds3,DS3,15
+subaru-impreza,Subaru Impreza,14
+ssangyong-korando-sport,SsangYong Korando sport,14
+citroen-c3-picasso,Citroen C3 Picasso,14
+toyota-avenza,Toyota Avenza,14
+modele-jetour-x70_l,Jetour X70 L,13
+ford-mondeo,Ford Mondeo,13
+renault-megane-3-coupe,Renault Megane 3 Coupé,13
+great-wall-new-florid,Great Wall New Florid,13
+kia-ceed,Kia Ceed,13
+fiat-siena,Fiat Siena,13
+haima-2,Haima 2,13
+nissan-pathfinder,Nissan Pathfinder,13
+changan-cx20,Changan CX20,13
+chevrolet-sonic,Chevrolet Sonic,13
+modele-geely-x6_pro,Geely X6 Pro,13
+modele-skoda-superb_pro,Skoda Superb Pro,12
+daewoo-laganza,Daewoo Laganza,12
+peugeot-404,Peugeot 404,12
+peugeot-309,Peugeot 309,12
+renault-grand-scenic,Renault Grand Scenic,12
+haima-m3,Haima m3,12
+fiat-tipo,Fiat Tipo,12
+geely-ck,Geely CK,12
+jaguar-xf-sportbrake,Jaguar XF Sportbrake,12
+iran-khodro-samand,Iran Khodro Samand,12
+hafei-motors-minibus,Hafei motors Minibus,12
+peugeot-607,Peugeot 607,11
+renault-clio-4-rs,Renault Clio 4 RS,11
+kia-sephia,Kia Sephia,11
+ford-figo,Ford Figo,11
+honda-accord,Honda Accord,11
+haima-3,Haima 3,11
+volkswagen-vento,Volkswagen Vento,11
+nissan-tiida-4-portes,Nissan Tiida 4 portes,11
+brilliance-frv,Brilliance FRV,11
+tata-indica,Tata Indica,11
+volkswagen-fox-cross,Volkswagen Fox Cross,10
+mitsubishi-pajero-sport,Mitsubishi Pajero Sport,10
+citroen-xantia,Citroen Xantia,10
+citroen-c1,Citroen C1,10
+volkswagen-fox,Volkswagen Fox,10
+byd-flyer,BYD Flyer,10
+volkswagen-bora,Volkswagen Bora,10
+jeep-compass,Jeep Compass,10
+skoda-fabia-facelift,Skoda Fabia Facelift,10
+hyundai-getz,Hyundai Getz,10
+volkswagen-up,Volkswagen Up,10
+fiat-seicento,Fiat Seicento,10
+bestune-b70,Bestune B70,10
+ford-ka,Ford Ka,10
+renault-laguna-3,Renault Laguna 3,10
+mercedes-clc,Mercedes CLC,9
+renault-scenic-conquest,Renault Scenic Conquest,9
+jac-a-10,JAC A 10,9
+fiat-linea,Fiat Linea,9
+faw-b50,Faw B50,9
+modele-geely-staray,Geely Staray,9
+mg-zs_ev,MG Zs Ev,9
+mercedes-classe-b,Mercedes Classe B,9
+toyota-starlet,Toyota Starlet,9
+bestune-b70s,Bestune B70S,9
+audi-s3-berline,Audi S3 Berline,9
+bmw-x5,BMW X5,9
+modele-skoda-octavia_pro,Skoda Octavia Pro,9
+dodge-ram-1500,Dodge Ram 1500,9
+dfsk-mini-truck-double-cab,DFSK Mini Truck Double Cab,9
+fiat-fiorino,Fiat Fiorino,9
+tata-indigo,Tata Indigo,9
+renault-megane-1-coupe,Renault Megane 1 Coupé,9
+baic-x7,Baic X7,9
+modele-jetour-new_dashing,Jetour New Dashing,9
+geely-s5,Geely S5,9
+geely-mk,Geely MK,9
+skoda-octavia-combi,Skoda Octavia Combi,8
+ds-ds5,DS5,8
+great-wall-haval-h5,Great Wall Haval H5,8
+hyundai-trajet,Hyundai Trajet,8
+mercedes-classe-s,Mercedes Classe S,8
+sokon-c02,Sokon C02,8
+mazda-626,Mazda 626,8
+kia-optima,Kia Optima,8
+modele-suzuki-fronx,Suzuki Fronx,8
+nissan-terrano,Nissan Terrano,8
+audi-q7,Audi Q7,8
+opel-insignia,Opel Insignia,8
+citroen-nemo,Citroen Nemo,8
+mercedes-gle,Mercedes GLE,8
+volkswagen-tayron,Volkswagen Tayron,7
+hyundai-new-i20,Hyundai New i20,7
+fiat-brava,Fiat Brava,7
+ssangyong-actyon,SsangYong Actyon,7
+volkswagen-golf-plus,Volkswagen Golf Plus,7
+modele-jetour-t1,Jetour T1,7
+brilliance-fsv,Brilliance FSV,7
+bestune-t55,Bestune T55,7
+citroen-evasion,Citroen Evasion,7
+suzuki-alto-800,Suzuki Alto 800,7
+emgrand-ec-7,Emgrand EC 7,7
+dfsk-mini-conteneur,DFSK Mini Conteneur,7
+renault-18,Renault 18,7
+peugeot-traveller,Peugeot Traveller,7
+renault-megane-3-cc,Renault Megane 3 CC,7
+honda-city,Honda City,7
+citroen-berlingo-first,Citroen Berlingo First,7
+citroen-c2,Citroen C2,7
+chery-s18,Chery S18,7
+mitsubishi-galant,Mitsubishi Galant,6
+lifan-330,Lifan 330,6
+fiat-qubo,Fiat Qubo,6
+kia-shuma,Kia Shuma,6
+volkswagen-sharan,Volkswagen Sharan,6
+zotye-z-200,Zotye Z 200,6
+bmw-x3,BMW X3,6
+baic-u5_plus,Baic U5 plus,6
+bmw-x6,BMW X6,6
+bmw-x4,BMW X4,6
+chevrolet-camaro,Chevrolet Camaro,6
+modele-marque-voiture-jetta-vs8,Jetta  VS8,6
+brilliance-v5,Brilliance V5,6
+toyota-prado,Toyota PRADO,6
+mini-cooper-d,Mini Cooper D,6
+mg-350,MG 350,6
+suzuki-vitara,Suzuki Vitara,6
+peugeot-308-cc,Peugeot 308 CC,6
+dacia-dokker,Dacia Dokker,6
+dfsk-v21,DFSK V21,6
+mg6,MG6,5
+dacia-lodgy,Dacia Lodgy,5
+daewoo-nubira-coupe,Daewoo Nubira coupé,5
+volkswagen-touran-cross,Volkswagen Touran Cross,5
+df_joyear-t5_evo,DF Joyear  T5 EVO,5
+haima-7,Haima 7,5
+hyundai-terracan,Hyundai Terracan,5
+kaiyi-x3,Kaiyi X3,5
+ford-tourneo-connect,Ford Tourneo Connect,5
+ford-sierra,Ford Sierra,5
+land-rover-range-rover-sport,Land Rover Range Rover Sport,5
+fiat-500l,Fiat 500L,5
+isuzu-d-max,Isuzu D Max,5
+modele-marque-voiture-jetta-vs7,Jetta  VS7,5
+nissan-patrol-court,Nissan Patrol Court,5
+bmw-serie-1-coupe,BMW Série 1 Coupé,5
+modelechangancs_75,Changan CS 75,5
+toyota-nouvelle-corolla,Toyota Nouvelle Corolla,5
+peugeot-206-sw,Peugeot 206 SW,5
+bmw-serie-4,BMW Série 4,5
+chana-star-ii-7-places,Chana Star II 7 places,5
+opel-nouvelle-astra,Opel Nouvelle Astra,5
+bestune-t77,Bestune T77,5
+baic-d20,Baic D20,5
+dfsk-k01h,DFSK K01H,5
+suzuki-jimny,Suzuki Jimny,5
+modele-hyundai-stargazer,Hyundai Stargazer,5
+modele-hyundai-stragazer,Hyundai Stragazer,5
+citroen-c4-aircross,Citroen C4 Aircross,5
+peugeot-504,Peugeot 504,5
+daewoo-racer,Daewoo Racer,5
+mg-550,MG 550,5
+peugeot-207-sw,Peugeot 207 SW,5
+citroen-zx,Citroen ZX,5
+seat-altea,Seat Altea,4
+zotye-m-300,Zotye M 300,4
+volkswagen-polo-3-flight,Volkswagen Polo 3 Flight,4
+hyundai-veloster,Hyundai Veloster,4
+iran-khodro-dena,Iran Khodro Dena,4
+renault-scenic-court,Renault Scenic Court,4
+saipa-saba,Saipa Saba,4
+renault-modus,Renault Modus,4
+renault-new_express,Renault New express,4
+seat-marbella,Seat Marbella,4
+jmc-gl,JMC GL,4
+daihatsu-materia,Daihatsu Materia,4
+peugeot-partner-vu,Peugeot Partner VU,4
+peugeot-rcz,Peugeot RCZ,4
+faw-v2,Faw V2,4
+fiat-bravo,Fiat Bravo,4
+mazda-6,Mazda 6,4
+renault-9,Renault 9,4
+ssangyong-stavic-rodius,SsangYong Stavic Rodius,4
+ford-transit,Ford Transit,4
+ford-escort,Ford Escort,4
+faw-n7,Faw N7,4
+dfsk-b07,DFSK B07,4
+mercedes-gla,Mercedes GLA,4
+mercedes-clk,Mercedes CLK,4
+mini-r56,Mini R56,4
+mini-coupe,Mini Coupé,4
+citroen-c4-coupe,Citroen C4 Coupé,4
+modele-kia-niro,Kia Niro,4
+citroen-nemo-tole,Citroen Nemo Tolé,4
+tata-vista,Tata Vista,4
+citroen-jumpy-multispace,Citroen Jumpy Multispace,4
+peugeot-407-sw,Peugeot 407 SW,4
+mercedes-classe-e-coupe,Mercedes Classe E coupé,4
+mercedes-cl,Mercedes CL,4
+mercedes-slk,Mercedes SLK,4
+suzuki-ciaz,Suzuki Ciaz,4
+dfsk-mini-bus,DFSK Mini Bus,4
+volkswagen-crafter,Volkswagen Crafter,4
+modele-mg-7,MG 7,4
+modele-peugeot-108,Peugeot 108,4
+baic-x55,Baic X55,4
+nissan-murano,Nissan Murano,4
+chery-arrizo_8,Chery Arrizo 8,3
+chevrolet-colorado,Chevrolet Colorado,3
+byd-l3,BYD L3,3
+chana-q20,Chana Q20,3
+modele-marque-voiture-gac-gs4,GAC GS4,3
+modele-chery-tiggo_7,Chery Tiggo 7,3
+modele-kia-syros,Kia Syros,3
+citroen-c8,Citroen C8,3
+faw-oley,Faw OLEY,3
+peugeot-605,Peugeot 605,3
+modele-hyundai-creta_grand,Hyundai Creta Grand,3
+modele-hyundai-palisade,Hyundai Palisade,3
+mini-countryman,Mini Countryman,3
+daihatsu-cuore,Daihatsu Cuore,3
+mitsubishi-asx,Mitsubishi ASX,3
+suzuki-splash,Suzuki Splash,3
+mercedes-classe-g,Mercedes Classe G,3
+porsche-panamera,Porsche Panamera,3
+porsche-cayenne,Porsche Cayenne,3
+mercedes-classe-m,Mercedes Classe M,3
+mercedes-classe-c-coupe,Mercedes Classe C coupé,3
+haima-forstar,Haima Forstar,3
+renault-laguna-coupe,Renault Laguna Coupé,3
+renault-laguna-3-estate,Renault Laguna 3 Estate,3
+foton-tunland,FOTON TUNLAND,3
+land-rover-land-rover,Land Rover,3
+lada-samara,Lada Samara,3
+kiasoul,Kia Soul,3
+mazda-2,Mazda 2,3
+fiat-multipla,Fiat Multipla,3
+fiat-ritmo,Fiat Ritmo,3
+fiat-panda-4x4,Fiat Panda 4x4,3
+rover-75,Rover 75,3
+skoda-felicia,Skoda Felicia,3
+seat-exeo,Seat Exeo,3
+skoda-octavia-scout,Skoda Octavia Scout,3
+renault-koleos,Renault Koleos,3
+opel-adam,Opel Adam,3
+audi-rs3,Audi RS3,3
+audi-a6-avant,Audi A6 Avant,3
+bugatti-veyron,Bugatti Veyron,3
+renault-megane-3-facelift,Renault Megane 3 Facelift,3
+jac-j2,JAC J2,3
+opel-insignia-sports-tourer,Opel Insignia Sports Tourer,2
+toyota-verso,Toyota Verso,2
+toyota-fortuner,Toyota Fortuner,2
+citroen-ax,Citroen AX,2
+citroen-2-cv,Citroen 2 cv,2
+peugeot-207-cc,Peugeot 207 CC,2
+peugeot-307-cc,Peugeot 307 CC,2
+mitsubishi-pajero-pinin,Mitsubishi Pajero Pinin,2
+chevrolet-orlando,Chevrolet Orlando,2
+citroen-bx,Citroen BX,2
+opel-tigra,Opel Tigra,2
+modele-marque-voiture-gac-empow,GAC Empow,2
+peugeot-1007,Peugeot 1007,2
+volkswagen-golf-1,Volkswagen Golf 1,2
+volkswagen-lupo,Volkswagen Lupo,2
+bmw-serie-3-cabriolet,BMW Série 3 Cabriolet,2
+alfa-romeo-giulietta,Alfa Romeo Giulietta,2
+chevrolet-epica,Chevrolet Epica,2
+zotye-z-200-hatch-back,Zotye Z 200 Hatch Back,2
+alfa-romeo-156,Alfa Romeo 156,2
+alfa-romeo-mito,Alfa Romeo MiTo,2
+mercedes-cla-shooting-brake,Mercedes CLA Shooting Brake,2
+mercedes-classe-e-cabriolet,Mercedes Classe E cabriolet,2
+renault-11,Renault 11,2
+dodge-caliber,Dodge Caliber,2
+dfsk-mini-frigo,DFSK Mini Frigo,2
+faw-v-70,Faw V 70,2
+lifan-520-hatch-back,Lifan 520 Hatch Back,2
+renault-14,Renault 14,2
+emgrand-ec-7-rv,Emgrand EC 7 RV,2
+dfsk-v22,DFSK V22,2
+suzuki-wagon-r,Suzuki Wagon R+,2
+daewoo-espero,Daewoo Espero,2
+peugeot-807,Peugeot 807,2
+mini-r59,Mini R59,2
+modele-chery-tiggo_8,Chery Tiggo 8,2
+suzuki-ignis,Suzuki Ignis,2
+modele-mg-mg7,MG7,2
+dfm-s30,DFM S30,2
+tata-manza,Tata Manza,2
+nissan-cabstar,Nissan Cabstar,2
+toyota-land_cruiser,Toyota Land Cruiser,2
+nissan-urvan,Nissan Urvan,2
+lifan-x-60,Lifan X 60,2
+skoda-rapid-facelift,Skoda Rapid Facelift,2
+hummer-h2,Hummer H2,2
+mazda-5,Mazda 5,2
+foton-aumark-fl,FOTON AUMARK FL,2
+subaru-legacy,Subaru Legacy,2
+mercedes-citan,Mercedes Citan,2
+fiat-marea,Fiat Marea,2
+ford-focus-cc,Ford Focus CC,2
+fiat-ulysse,Fiat Ulysse,2
+kia-cerato-koup,Kia Cerato Koup,2
+renault-fuego,Renault Fuego,2
+renault-latitude,Renault Latitude,2
+jeep-wj-grand-cherokee,Jeep WJ Grand Cherokee,2
+ford-kuga,Ford Kuga,2
+great-wall-hover,Great Wall hover,2
+geely-mk-2,Geely MK 2,2
+renault-vel-satis,Renault Vel Satis,2
+hyundai-new-sonata,Hyundai New Sonata,2
+infiniti-ex37,Infiniti EX37,2
+jeep-grand-cherokee,Jeep Grand Cherokee,2
+renault-megane-2-cc,Renault Megane 2 CC,2
+hyundai-azera,Hyundai Azera,2
+infiniti-fx,Infiniti FX,2
+hyundai-h100,Hyundai H100,2
+hyundai-genesis-coupe,Hyundai Genesis Coupé,2
+jac-j3,JAC J3,2
+jac-sunray,JAC Sunray,2
+jaguar-x-type,Jaguar X Type,2
+jaguar-xjr,Jaguar XJR,2
+baic-d20-coupe,Baic D20 Coupé,2
+volkswagen-new-beetle,Volkswagen New Beetle,2
+jac-a-class,JAC A CLASS,2
+kia-carnival,Kia Carnival,2
+bmw-serie-1-cabriolet,BMW Série 1 Cabriolet,2
+audi-rs3_sportback,Audi RS3 Sportback,2
+opel-astra-4-portes,Opel Astra 4 portes,2
+opel-antara,Opel Antara,2
+zotye-cargo,Zotye Cargo,2
+volvo-s80,Volvo S80,2
+volvo-s40,Volvo S40,2
+audi-a3-cabriolet,Audi A3 Cabriolet,2
+audi-a3_allstreet,Audi A3 Allstreet,1
+audi-a3_berline,Audi A3 Berline,1
+audi-a5-cabriolet,Audi A5 Cabriolet,1
+volvo-740,Volvo 740,1
+volvo-760,Volvo 760,1
+volvo-850,Volvo 850,1
+volvo-xc90,Volvo XC90,1
+zotye-hunter,Zotye Hunter,1
+opel-astra-sports-tourer,Opel Astra Sports Tourer,1
+bmw-x2,BMW X2,1
+brilliance-h530,Brilliance H530,1
+bestune-m9,Bestune M9,1
+bestune-t90,Bestune T90,1
+audi-a6-allroad,Audi A6 Allroad,1
+audi-rs6,Audi RS6,1
+audi-s3_sportback,Audi S3 Sportback,1
+audi-tts,Audi TTS,1
+volkswagen-passat-sw,Volkswagen Passat SW,1
+jmc-tfr,JMC TFR,1
+jac-b-class,JAC B CLASS,1
+jac-b-cross,JAC B CROSS,1
+jaguar-s-type,Jaguar S Type,1
+jeep-cherokee,Jeep Cherokee,1
+renault-megane-1-cabriolet,Renault Megane 1 Cabriolet,1
+renault-megane-3-rs,Renault Megane 3 RS,1
+hyundai-i40sw,Hyundai i40SW,1
+infiniti-m,Infiniti M,1
+iran-khodro-pars,Iran Khodro PARS,1
+saab-9-3,Saab 9 3,1
+seat-arosa,Seat Arosa,1
+seat-cordoba,Seat Cordoba,1
+land-rover-range-rover,Land Rover Range Rover,1
+land-rover-range-rover-p38a,Land Rover Range Rover P38A,1
+kia-k2700,Kia K2700,1
+kia-magentis,Kia Magentis,1
+kia-opirus,Kia Opirus,1
+renault-grand-modus,Renault Grand Modus,1
+jeep-patriot,Jeep Patriot,1
+jeep-wrangler,Jeep Wrangler,1
+jeep-zj-grand-cherokee,Jeep ZJ Grand Cherokee,1
+haima-s5,Haima S5,1
+honda-crv,Honda CRV,1
+honda-hrv,Honda HRV,1
+honda-legend,Honda Legend,1
+skoda-octavia-combi-4x4,Skoda Octavia Combi 4x4,1
+ford-galaxy,Ford Galaxy,1
+ford-orion,Ford Orion,1
+ford-shelby-500gt,Ford Shelby 500GT,1
+mahindra-quanto,Mahindra Quanto,1
+mazda-323,Mazda 323,1
+mazda-cx5,Mazda CX5,1
+mazda-cx7,Mazda CX7,1
+mazda-rx7,Mazda RX7,1
+renault-clio-3-rs,Renault Clio 3 RS,1
+lada-niva,Lada Niva,1
+land-rover-109-serie-iii,Land Rover 109 Série III,1
+land-rover-110,Land Rover 110,1
+land-rover-defender,Land Rover Defender,1
+fiat-stilo,Fiat Stilo,1
+fiat-tempra,Fiat Tempra,1
+fiat-freemont,Fiat Freemont,1
+fiat-panda-cross,Fiat Panda Cross,1
+sokon-c05,Sokon C05,1
+ssangyong-tivoli,SsangYong Tivoli,1
+subaru-tribeca,Subaru Tribeca,1
+mitsubishi-colt,Mitsubishi Colt,1
+mitsubishi-grandis,Mitsubishi Grandis,1
+mercedes-gl,Mercedes GL,1
+mercedes-classe-v,Mercedes Classe V,1
+lifan-van,Lifan Van,1
+faw-mini-van,Faw Mini van,1
+faw-oley-hb,Faw Oley HB,1
+fiat-127,Fiat 127,1
+fiat-croma,Fiat Croma,1
+dodge-dart,Dodge Dart,1
+dodge-journey,Dodge Journey,1
+emgrand-ec8,Emgrand EC8,1
+suzuki-alto_800,Suzuki ALTO 800,1
+suzuki-samurai,Suzuki Samurai,1
+modele-geely-icon,Geely Icon,1
+modele-geely-okavango,Geely Okavango,1
+modele-hyundai-santa_cruz,Hyundai Santa Cruz,1
+peugeot-406-coupe,Peugeot 406 Coupé,1
+peugeot-407-coupe,Peugeot 407 Coupé,1
+peugeot-508-sw,Peugeot 508 SW,1
+mini-clubvan,Mini Clubvan,1
+mini-roadster,Mini Roadster,1
+daewoo-tico,Daewoo Tico,1
+daihatsu-copen,Daihatsu Copen,1
+df_joyear-s50,DF Joyear  S50,1
+df_joyear-utour,DF Joyear  U-TOUR,1
+dfm-h30-cross,DFM H30 Cross,1
+daewoo-cielo-nexia,Daewoo Cielo nexia,1
+daewoo-damas,Daewoo Damas,1
+toyota-avensis-sw,Toyota Avensis SW,1
+toyota-aygo,Toyota Aygo,1
+toyota-celica,Toyota Celica,1
+modele-mg-one,MG One,1
+modele-skoda-kodiaq,Skoda Kodiaq,1
+modele-jetour-x50,Jetour X50,1
+modele-jetour-x90,Jetour X90,1
+modele-kia-carnival,Kia carnival,1
+modele-kia-telluride,Kia Telluride,1
+peugeot-4007,Peugeot 4007,1
+mitsubishi-space-runner,Mitsubishi Space Runner,1
+modele-chery-tiggo_5x,Chery Tiggo 5X,1
+modele-chery-tiggo_7_plus,Chery Tiggo 7 Plus,1
+citroen-c6,Citroen C6,1
+cupra-ateca,Cupra  Ateca,1
+citroen-c-crosser,Citroen C Crosser,1
+chevrolet-trailblazer,Chevrolet Trailblazer,1
+chrysler-300c,Chrysler 300C,1
+chrysler-pt-cruiser,Chrysler PT Cruiser,1
+chrysler-voyager-2,Chrysler Voyager 2,1
+toyota-verso-s,Toyota Verso S,1
+opel-frontera-court,Opel Frontera Court,1
+opel-meriva,Opel Meriva,1
+opel-signum,Opel Signum,1
+nissan-nv200-evalia,Nissan NV200 Evalia,1
+nissan-350z-coupe,Nissan 350Z coupé,1
+opel-tigra-twintop,Opel Tigra TwinTop,1
+peugeot-104,Peugeot 104,1
+peugeot-206-cc,Peugeot 206 CC,1
+modele-mg-hs,MG HS,1
+chevrolet-blazer,Chevrolet Blazer,1
+chevrolet-cruze-hatchback,Chevrolet Cruze Hatchback,1
+chevrolet-new-captiva,Chevrolet New Captiva,1
+byd-f3r,BYD F3R,1
+volkswagen-eos,Volkswagen Eos,1
+volkswagen-multivan,Volkswagen Multivan,1
+bmw-serie-3-coupe,BMW Série 3 Coupé,1
+bmw-serie-3-gran-turismo,BMW Série 3 Gran Turismo,1
+volkswagen-polo-cross,Volkswagen Polo Cross,1
+audi-90,Audi 90,1
+alfa-romeo-156-sw,Alfa Romeo 156 SW,1
+audi-80,Audi 80,1
+alfa-romeo-147,Alfa Romeo 147,1
+alfa-romeo-spider,Alfa Romeo Spider,1
+alfa-romeo-145,Alfa Romeo 145,1
+zotye-z300,Zotye Z300,1
+zotye-z500,Zotye Z500,1
